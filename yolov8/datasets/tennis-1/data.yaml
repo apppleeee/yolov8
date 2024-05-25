@@ -1,0 +1,12 @@
+names:
+- tennis
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ox8d5
+  url: https://universe.roboflow.com/project-fzduw/tennis-ox8d5/dataset/1
+  version: 1
+  workspace: project-fzduw
+test: test/images
+train: train/images
+val: valid/images
